@@ -6,5 +6,5 @@ The application features include creating conversations with the chatbot, sendin
 Technically, the application utilizes GPT technology that has been pre-trained by OpenAI using a large text corpus, and then integrated with Laravel using the OpenAI API. The application also uses WebSockets to send and receive messages in real-time without needing to reload the page.
 
 reference : 
-https://platform.openai.com/docs/guides/chat/introduction
-https://beyondco.de/blog/build-a-chatgpt-clone-with-laravel
+- https://platform.openai.com/docs/guides/chat/introduction
+- https://beyondco.de/blog/build-a-chatgpt-clone-with-laravel
