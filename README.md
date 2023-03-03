@@ -7,4 +7,5 @@ Technically, the application utilizes GPT technology that has been pre-trained b
 
 reference : 
 https://platform.openai.com/docs/guides/chat/introduction
+
 https://beyondco.de/blog/build-a-chatgpt-clone-with-laravel
